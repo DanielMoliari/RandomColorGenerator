@@ -17,4 +17,4 @@ Enjoy and have fun
 I hope this site is useful in some way :)
 
 ## :camera_flash: SnakeGame GIF
-<img src="Animacao.gif" width="40%">
+<img src="Animacao.gif" width="100%">
